@@ -1,0 +1,47 @@
+# Ignore environment variables and secrets
+.env
+*.env
+config.json
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Python compiled files
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environments
+venv/
+FYP_Agent/
+
+# Ignore log files
+*.log
+logs/
+*.out
+
+# Ignore cache and temporary files
+*.bak
+*.swp
+*.swo
+*.tmp
+
+# Ignore dataset and model files (if applicable)
+data/
+*.csv
+*.json
+*.pkl
+*.h5
+*.hdf5
+*.db
+*.sqlite
+*.parquet
+*.feather
+
+# Ignore Python package dependencies (if using poetry/pip)
+*.egg-info/
+pip-log.txt
+pip-delete-this-directory.txt
