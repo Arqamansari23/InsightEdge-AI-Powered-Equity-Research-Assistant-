@@ -1,0 +1,274 @@
+
+
+				 *RISK ASSESMENT REPORT* 
+
+
+
+
+				 *Overview Of Company* 
+
+
+The provided text only shows page numbers and mentions "Nishat Mills Limited" and "Annual Report 2024" repeatedly.  There is no actual overview of the company's business or activities within the provided snippets.  To give you a short overview, I need the *content* of the annual report, not just the page numbers and report title.
+
+
+
+				 *Income Statement Analysis* 
+
+
+
+
+*Revenue:*
+The revenue/total sales of Nishat Mills Limited for the years mentioned in the provided annual report are:
+
+* **2024:** Rs. 160,257,000,000
+* **2023:** Rs. 141,756,469,000
+* **2022:**  (Not explicitly stated, but implied to be lower than 2023 based on the 13.05% increase in 2024)
+* **2021-2020:** (Not explicitly stated)
+
+
+**Analysis:**
+
+The provided data shows a significant increase in revenue from Rs. 141.76 billion in 2023 to Rs. 160.26 billion in 2024, representing a 13.05% growth.  While the report doesn't give exact figures for years prior to 2023, the statement indicates that revenue has been growing over the past five years.
+
+**Impact on Investors:**
+
+This revenue growth is generally positive for investors.  Increased revenue suggests the company is performing well and expanding its market share.  However, it's crucial to consider other factors like profitability (profit after tax significantly declined despite revenue growth) and the reasons behind the revenue increase (e.g., increased local sales, but stable exports).  A complete picture requires analyzing profitability ratios, cost structures, and overall financial health to assess the sustainability of this revenue growth and its true impact on investor returns.  The decrease in profit after tax despite increased revenue is a significant factor that investors would need to investigate further.
+
+
+
+*COCS (Cost of good sold ):*
+The provided text shows the Cost of Goods Sold (COGS) for two years:
+
+* **2024:**  178,820,156 (Rupees in thousands)
+* **2023:** 160,510,686 (Rupees in thousands)
+
+
+**Analysis:**
+
+The COGS increased from 160,510,686 in 2023 to 178,820,156 in 2024.  This represents a significant increase in the cost of producing and selling the company's goods.
+
+**Impact on Investors:**
+
+An increase in COGS, without a corresponding increase in revenue and/or selling prices, will likely reduce the company's gross profit margin.  This lower profitability is generally viewed negatively by investors.  It could lead to:
+
+* **Lower earnings per share (EPS):** Reduced profitability directly impacts the earnings available to distribute to shareholders.
+* **Decreased stock price:** Investors may react negatively to lower profitability, leading to a decline in the company's stock price.
+* **Reduced dividend payouts:** The company might reduce or forgo dividend payments to conserve cash.
+* **Increased scrutiny:**  Investors and analysts will likely investigate the reasons behind the increased COGS (e.g., rising raw material costs, increased labor costs, inefficiencies in production).
+
+
+It's important to note that this analysis is based solely on the COGS figures. A complete assessment requires considering revenue growth, changes in pricing strategies, and other financial metrics to understand the overall financial health and performance of the company.
+
+
+
+*Gross profit:*
+The provided text gives the following information regarding Nishat Mills Limited's gross profit:
+
+* **2023-24:**  A decrease of Rs. 3.755 billion (17.82%) compared to the previous year.  The exact gross profit figure for 2023-24 is not explicitly stated.
+* **Previous years:** The exact gross profit figures for previous years (2019-20, 2020-21, 2021-22, and 2022-23) are not provided numerically, only graphically.  Therefore, I cannot give the specific amounts.
+
+**Analysis:**
+
+The available data clearly shows a *decrease* in gross profit in the most recent year (2023-24).  The report attributes this to shrinking margins and increased costs.  Without the numerical data for previous years, a complete trend analysis is impossible. However, the graph suggests that gross profit was higher in the years leading up to 2023-24.
+
+**Impact on Investors:**
+
+A decrease in gross profit is generally negative for investors.  It suggests reduced profitability and potentially lower returns on their investment.  This could lead to a decrease in the company's stock price and reduced dividend payouts.  Investors will likely be concerned about the reasons for the decline (shrinking margins and increased costs) and the company's plans to address these issues.  The extent of investor concern will depend on the magnitude of the decrease and the company's overall financial health.
+
+
+
+*Total Operating Expence:*
+The provided text does not contain a complete breakdown of operating expenses for previous years to calculate a total.  Therefore, I cannot answer your question about the total operating expenses over previous years.  The report gives some expense figures (like depreciation and remuneration), but not a comprehensive list for all prior years necessary to calculate total operating expenses.
+
+To analyze the trend of operating expenses and their effect on investors, a complete breakdown of operating expenses for multiple years is needed.  Generally:
+
+* **Increasing Operating Expenses:**  If operating expenses are increasing, it could signal inefficiency, rising input costs (raw materials, labor), or expansion.  Investors may react negatively if the increase isn't offset by revenue growth, leading to lower profitability and potentially lower returns.
+
+* **Decreasing Operating Expenses:**  Decreasing operating expenses can be positive, indicating improved efficiency or cost-cutting measures.  However, it could also suggest reduced investment in growth or potential compromises in quality. Investors would need to assess the reasons behind the decrease to determine whether it's a positive or negative sign.
+
+
+
+*Operating Profit:*
+The provided text gives the profit for the year, not the operating profit.  Therefore, I cannot answer your question about the trend in operating profit over previous years.  The annual report shows a profit for the year of 5,389,574 (in thousands of Rupees) for 2024 and 4,091,029 (in thousands of Rupees) for 2023.  This indicates an increase in profit.
+
+To determine the operating profit trend, you would need to consult the complete Statement of Profit or Loss (page 46 of the report) or the Consolidated Statement of Profit or Loss (page 138).  These statements will detail the operating profit and allow for a proper year-over-year analysis.
+
+**Analysis of Profit Increase/Decrease and Investor Impact:**
+
+An increase in profit (as shown by the available data for "Profit for the year") generally indicates improved financial health and performance. This can positively affect investors in several ways:
+
+* **Higher Dividends:**  Companies with increased profits may be able to pay higher dividends to shareholders.  The report shows a dividend per share decrease from Rs. 5.00 to Rs. 3.00.
+* **Increased Share Price:**  Higher profits often lead to a rise in share price, as investors perceive the company as more valuable and potentially more profitable in the future.
+* **Increased Investor Confidence:**  Consistent profit growth builds investor confidence, making the company more attractive for future investments.
+
+Conversely, a decrease in profit suggests potential problems within the company, which could lead to:
+
+* **Lower Dividends:**  Reduced profits might force the company to lower or suspend dividend payments.
+* **Decreased Share Price:**  Investors may sell their shares, leading to a drop in share price.
+* **Decreased Investor Confidence:**  Falling profits can erode investor confidence, making it harder for the company to raise capital.
+
+**Note:**  The analysis above is based solely on the "Profit for the year" and not the operating profit. A complete analysis requires a review of the full Statement of Profit or Loss to understand the drivers behind the profit changes.
+
+
+
+*Net Profit:*
+The provided text mentions that the company's profit after tax declined by Rs. 5.797 billion in 2024 compared to the previous year.  A specific numerical value for the previous year's profit after tax is not explicitly stated, only that it was higher than the 2024 figure by Rs. 5.797 billion.
+
+Further, a summarized statement of comprehensive income shows a profit for the year of Rs. 5,389,574,000 in 2024 and Rs. 4,091,029,000 in 2023.  This confirms a profit increase from 2023 to 2024.
+
+**Analysis:**
+
+The information shows a decrease in profit after tax from the unspecified previous year to 2024. However, the summarized statement shows an *increase* in profit for the year from 2023 to 2024.  There's a discrepancy that needs clarification (possibly different reporting periods or definitions of "profit").
+
+**Impact on Investors:**
+
+* **Decreasing Profit (if considering the initial statement):** A decrease in net profit generally leads to lower returns for investors.  Share prices might fall, and dividend payouts could be reduced.  Investors may lose confidence, potentially leading to selling of shares.
+
+* **Increasing Profit (if considering the summarized statement):** An increase in net profit is generally positive.  It suggests the company is performing well, potentially leading to higher share prices, increased dividends, and greater investor confidence.
+
+
+To provide a complete analysis, the full financial statements are needed to reconcile the conflicting information regarding profit changes.
+
+
+
+				*Ratio Analysis*
+
+
+*Liquidity Ratio Analysis*
+
+
+Current Ratio and Quick Ratio
+The current ratio for the past five years is as follows: 2024: 1.21, 2023: 1.28, 2022: 1.39, 2021: 1.39, 2020: 1.36, 2019: 1.26.  The quick ratio for the same period is: 2024: 0.62, 2023: 0.67, 2022: 0.57, 2021: 0.76, 2020: 0.59, 2019: 0.55.
+
+
+**Analysis:**
+
+Both the current ratio and the quick ratio show a generally declining trend over the past five years, with some fluctuations.  A lower current ratio suggests a decrease in the company's ability to meet its short-term obligations with its short-term assets. Similarly, a lower quick ratio (which excludes inventories) indicates a potentially weaker ability to pay short-term debts using readily available assets.
+
+**Effect on Investors:**
+
+A decreasing current and quick ratio may concern investors because it suggests increased short-term financial risk.  Investors may perceive a higher probability of the company facing liquidity problems, potentially impacting its ability to pay dividends, invest in growth opportunities, or even meet its operational expenses. This could lead to a decrease in investor confidence and potentially lower stock prices.  Conversely, a stable or increasing ratio would generally be viewed more favorably.  However, it's crucial to analyze these ratios in conjunction with other financial metrics and industry benchmarks to get a complete picture of the company's financial health.
+
+
+
+*Laverage Ratio Analysis*
+
+
+Debt-to-Equity Ratio and Interest Coverage Ratio:
+The provided text gives the Debt-to-Equity Ratio and Interest Coverage Ratio for the last five years, but not in a single, easily-copied table.  I will present the data as it appears in the text, then provide the analysis.
+
+
+**Debt-to-Equity Ratio (%):**
+
+* 2024: 20.62%
+* 2023: 13.25%
+* 2022: 15.51%
+* 2021: 13.50%
+* 2020: 12.91%
+* 2019: 7.90%
+
+
+**Interest Coverage Ratio (Times):**
+
+* 2024: 2.03
+* 2023: 3.22
+* 2022: 6.97
+* 2021: 6.75
+* 2020: 3.98
+* 2019: 5.13
+
+
+**Analysis:**
+
+**Debt-to-Equity Ratio:** The Debt-to-Equity ratio shows a mixed trend.  It decreased from 13.25% in 2023 to 20.62% in 2024, indicating an increase in debt relative to equity.  However, looking at the longer trend, the ratio has fluctuated over the past five years, with periods of both increase and decrease.
+
+**Interest Coverage Ratio:** The Interest Coverage ratio shows a clear downward trend. It has decreased significantly from 3.22 times in 2023 to 2.03 times in 2024.  This indicates a decline in the company's ability to cover its interest expenses with its earnings.
+
+**Effect on Investors:**
+
+* **Increasing Debt-to-Equity Ratio:** A higher debt-to-equity ratio generally increases financial risk for investors.  It suggests the company is relying more on debt financing, making it more vulnerable to economic downturns and interest rate hikes.  This could lead to lower credit ratings and potentially higher borrowing costs in the future.  Investors may perceive this as increased risk and demand a higher return on their investment to compensate.
+
+* **Decreasing Interest Coverage Ratio:**
+
+
+*Investor Profitibility Ratio*
+
+
+Net Profit Margin, ROE, ROA, and EPS:
+The provided text does not contain the necessary financial data (Net Sales/Revenue, Net Profit, Equity, Total Assets) to calculate Net Profit Margin, Return on Equity (ROE), Return on Assets (ROA).  Therefore, I cannot provide a trend analysis or calculations for these ratios.  The annual report only gives Earnings Per Share (EPS).
+
+
+**EPS Trend Analysis:**
+
+The EPS trend shows fluctuation:
+
+* There was a significant increase in EPS from Rs. 9.97 in 2020 to Rs. 34.60 in 2023.
+* However, EPS dropped to Rs. 18.11 in 2024.
+
+**Effect of EPS, Net Profit Margin, ROE, and ROA Trends on Investors:**
+
+* **Increasing EPS:** Generally attracts investors as it indicates higher profitability per share, potentially leading to increased dividend payouts or share price appreciation.
+* **Decreasing EPS:** Can deter investors, signaling reduced profitability and potentially lower future returns.  Investors may sell their shares, leading to a lower share price.
+* **Increasing Net Profit Margin:** Shows improved efficiency in managing costs and generating profits from sales.  This is positive for investors.
+* **Decreasing Net Profit Margin:** Suggests declining profitability relative to sales, potentially due to rising costs or falling prices. This is negative for investors.
+* **Increasing ROE:** Indicates the company is effectively using shareholder investments to generate profits.  Attractive to investors.
+* **Decreasing ROE:** Suggests less efficient use of shareholder capital, potentially leading to investor concern.
+* **Increasing ROA:** Shows the company is efficiently using its assets to generate profits.  Positive for investors.
+* **Decreasing ROA:** Indicates declining efficiency in asset utilization, potentially signaling operational issues. Negative for investors.
+
+
+Without the data to calculate Net Profit Margin, ROE, and ROA, a complete analysis of their impact on investors is impossible.  The provided report excerpt needs to be supplemented with the complete financial statements to perform these calculations and provide a comprehensive analysis.
+
+
+
+				Major Cash Flow Risks:
+The annual report identifies several major cash flow risks:
+
+* **Interest rate risk:**  Fluctuations in market interest rates affect the fair value or future cash flows of financial instruments.  This risk stems from long-term financing, short-term borrowings, bank balances, term deposit receipts, loans to employees, and advances to subsidiary companies. Variable-rate instruments expose the company to cash flow interest rate risk, while fixed-rate instruments expose it to fair value interest rate risk.  A 1% change in interest rates at year-end could impact profit before taxation by 337.083 million Rupees (2024) or 101.288 million Rupees (2023).  The group's figures are similar but higher (413.772 million Rupees in 2024 and 245.465 million Rupees in 2023).
+
+* **Currency risk:** Changes in foreign exchange rates impact the fair value or future cash flows of financial instruments.  The company's exposure is primarily related to cash and bank balances, and amounts receivable/payable from/to foreign entities in USD, Euro, AED, JPY, and GBP (and other currencies for the group).  The report notes that the year-end exposure may not fully reflect the exposure throughout the year.
+
+* **Liquidity risk:** The risk of difficulty in meeting obligations associated with financial liabilities.  The company manages this by maintaining sufficient cash and committed credit facilities.  However, the report shows a decrease in available borrowing limits from financial institutions between 2023 and 2024 (Group: 37,738.864 million to 35,199.026 million Rupees; Company: 37,738.864 million to 35,199.026 million Rupees).
+
+* **Credit risk:** The risk of financial loss from a counterparty failing to meet obligations.  The company's main credit exposure is related to trade debts.  While management believes this risk is minimal due to long-standing relationships and strong financial standing of counterparties,  it's still identified as a risk.  The report details the methodology used to assess expected credit losses.
+
+The report also mentions risks related to cotton supply and price, export demand and
+
+
+				*Operational Risks*
+The provided text focuses on financial risks (market risk, credit risk, liquidity risk, and interest rate risk) and audit matters related to accounting practices (revenue recognition, capital expenditures, and contingencies).  It does *not* explicitly list key *operational* risks.
+
+
+
+				*Major Market Risks*
+Based on the provided annual report, Nishat Mills Limited faces the following major market risks:
+
+* **Currency Risk:**  The company's exposure stems from transactions and receivables/payables denominated in USD, AED, Euro, JPY, and CHF (and GBP and DKK for the Group).  The report notes that this risk is primarily confined to bank balances and amounts receivable/payable from/to foreign entities.  A sensitivity analysis is provided, but management considers it unrepresentative of the inherent currency risk because the year-end exposure doesn't reflect exposure throughout the year.
+
+* **Interest Rate Risk:** This risk arises from long-term financing, short-term borrowings, loans and advances to subsidiaries, term deposit receipts, and bank balances.  Fixed-rate instruments expose the company to fair value interest rate risk, while variable-rate instruments expose it to cash flow interest rate risk.  A sensitivity analysis shows the impact of a 1% fluctuation in interest rates on profit before taxation.
+
+* **Other Price Risk:** The report states the company is *not* exposed to commodity price risk.  However, a sensitivity analysis is included showing the impact of a 5% increase/decrease in the Pakistan Stock Exchange (PSX) index on the company's equity (fair value reserve FVTOCI investments).
+
+
+
+				*Governance And Regulatory Risks*:
+Based on the provided text, the key governance and regulatory risks mentioned in the report include:
+
+**Governance Risks:**
+
+* **Lack of formally constituted committees:** The company hasn't established a separate nomination committee or risk management committee.  The functions are performed by other committees or senior officers, potentially leading to oversight gaps.
+* **Partial compliance with non-mandatory provisions:** The company only partially complies with non-mandatory provisions of the Regulations, indicating a potential area for improvement in corporate governance practices.
+* **Directors' training:** While progress has been made, not all directors have completed the prescribed training, and training for female executives and heads of departments is planned for the future, representing a potential risk to board effectiveness.
+* **Contingent liabilities:**  Nishat Power Limited (a subsidiary) has significant contingent liabilities pending adjudication, requiring significant management judgment and estimates in assessing their financial impact.  The uncertainty around the outcome poses a risk.
+* **Impairment of equity-accounted associates:** Assessing the recoverability of these investments requires significant judgment, and there's a risk of miscalculating potential impairment charges.
+* **Assessment of control and significant influence:** There's a risk that management misjudged control or significant influence over investments, impacting the consolidated financial statements.
+
+
+**Regulatory Risks:**
+
+* **Website disclosure of policies:** The company hasn't yet posted key policies and committee terms of reference on its website, despite the regulatory encouragement to do so.
+* **Anti-harassment policy:** The company is assessing a recent SECP amendment to the anti-harassment policy regulation and will comply in due course.  Until then, there's a regulatory compliance risk.
+* **Sustainability risks and opportunities:** The company is assessing a new SECP regulation on sustainability risks and opportunities and will comply in due course.  Until then, there's a regulatory compliance risk.
+
+The report highlights that management is addressing some of these risks, but the existence of these issues themselves represents significant governance and regulatory risks.
+
