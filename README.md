@@ -24,7 +24,12 @@ Assists investors in selecting the stronger stock for long-term gains.
 
 ## Why Choose InsightEdge?
 ✅ Real-time market insights for quick & accurate investment decisions.
+
 ✅ AI-powered analytics to extract key financial information effortlessly.
+
 ✅ Predictive modeling for future stock trends.
+
 ✅ Automated risk assessment for better portfolio management.
+
 ✅ Competitive benchmarking to compare market leaders.
+
